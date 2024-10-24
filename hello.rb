@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 
 def hello
-    puts 'hello mundo'
+    puts 'hello mundo'^M
   end
   
   hello()
