@@ -1,3 +1,6 @@
 [submodule "Dioda-"]
 	path = Dioda-
 	url = https://github.com/arturzdobylak/Dioda-.git
+[submodule "Pierwszy-projekt"]
+	path = Pierwszy-projekt
+	url = https://github.com/root33221/Pierwszy-projekt.git
