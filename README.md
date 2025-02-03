@@ -1,1 +1,1 @@
-To są tylko chaotyczne testy
+To są tylko testy
